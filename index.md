@@ -1,9 +1,10 @@
 ---
-title: Welcome to my blog!
+plant life: Welcome to my blog!
 ---
 
 # hi there i am looking foward to getting to know you! # 
 *welcome to my blog.*
+
 i am going to discus plants.
 ---
 - lavender
