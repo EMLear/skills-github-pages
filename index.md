@@ -6,8 +6,8 @@ title: Welcome to my blog!
 *welcome to my blog.*
 i am going to discus plants.
 ---
--lavender
--cherry blossoms 
+- lavender
+- cherry blossoms 
 - mint
 - cactus
 - daisy
