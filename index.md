@@ -15,4 +15,5 @@ These are a few of my favourites plants :
 - mint
 - cactus
 - daisy
+- buttercup
 ---
